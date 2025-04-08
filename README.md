@@ -3,13 +3,9 @@
 > **Libft** est une bibliothèque C personnelle réalisée dans le cadre du cursus de l'école 42.  
 > Elle re-implémente des fonctions standards de la libc, et introduit des fonctions utilitaires supplémentaires utiles dans de nombreux projets C.
 
----
-
 ## 🛠️ Objectif
 
 Recréer une partie de la **libc standard**, tout en apprenant à respecter des normes strictes de codage, la rigueur du C, la gestion mémoire, et le travail modulaire.
-
----
 
 ## 🧩 Fonctions Implémentées
 
@@ -26,8 +22,6 @@ Recréer une partie de la **libc standard**, tout en apprenant à respecter des 
 - `substr`, `strjoin`, `strtrim`, `split`
 - `itoa`, `strmapi`, `striteri`
 - `putchar_fd`, `putstr_fd`, `putendl_fd`, `putnbr_fd`
-
----
 
 ## 🧪 Compilation & Utilisation
 
@@ -59,8 +53,6 @@ N'oubliez pas d'inclure le header :
 #include "libft.h"
 ```
 
----
-
 ## 🔎 Exemple d'utilisation
 
 ```c
@@ -74,5 +66,3 @@ int main(void)
     return 0;
 }
 ```
-
----
